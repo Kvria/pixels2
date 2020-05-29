@@ -1,0 +1,11 @@
+p, h1, h2{
+    font-family: 'Kalam', cursive;
+    text-align: center;
+    color: black;
+}
+body{
+    background-color: #503047;
+}
+img{
+    padding: 5px;
+}
